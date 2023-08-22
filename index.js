@@ -7,7 +7,7 @@ let myserver = myhttp.createServer(
 let mytext;
 
    if(myrequest.url === "/sup"){
-     mytext = "What is goodie";
+     mytext = "What is goodie bruh";
    } else{
      mytext = "who is you aye?"
    }
